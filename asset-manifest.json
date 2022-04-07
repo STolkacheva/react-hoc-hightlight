@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-hoc-hightlight/static/css/main.ccd07e36.css",
+    "main.js": "/react-hoc-hightlight/static/js/main.e0bc6237.js",
+    "index.html": "/react-hoc-hightlight/index.html",
+    "main.ccd07e36.css.map": "/react-hoc-hightlight/static/css/main.ccd07e36.css.map",
+    "main.e0bc6237.js.map": "/react-hoc-hightlight/static/js/main.e0bc6237.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccd07e36.css",
+    "static/js/main.e0bc6237.js"
+  ]
+}
